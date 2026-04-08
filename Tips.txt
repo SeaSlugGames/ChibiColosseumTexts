@@ -1,0 +1,20 @@
+The shop in Blacksmith sometimes sell rare items with flat damage boost, a + 80 damage at level one is no joke.
+The panel below is a button, that's your player profile.
+There are 3 buttons below me, player profile, inventory and settings.
+In inventory you can sell your items, tap to see details, tap and hold to drag to equip/unequip, or drag to scroll the bag.
+Sometimes the patrons in the Inn gives you free gold.
+If you try to watch an ad but you can't tap the button or nothing happens, it means the ad failed to load in.
+Ads in this game are 100% optional and not required nor forced, and will always remain this way.
+Every upgrade in talent/skills costs more points each level.
+The max level is 100, which means you can not max all skills or talents. Choose carefully.
+You can restart by making new character by speaking to one of the patrons in the Inn.
+You lose 10% of current EXP on death.
+At level 92, you're half way to max level of 100.
+Try talking to any NPCs you see.
+The items in Auction House are not sold by players but by the game. It changes hourly.
+If you're lucky you can snag the item in Auction with just 1 Bid.
+Special effects on items are better from drops than rerolls.
+Join our discord: https://discord.gg/rfVfws5DfZ 
+There are no options to respect, only restart. Choose carefully. 
+The Colosseum is for online PvP, "Ranked" option match you with another player close to your level (+-3 below 50) (+-5 50+).
+
