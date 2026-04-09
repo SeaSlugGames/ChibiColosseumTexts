@@ -14,6 +14,6 @@ Try talking to any NPCs you see.
 The items in Auction House are not sold by players but by the game. It changes hourly.
 Special effects on items are better from drops than rerolls.
 Join our discord: https://discord.gg/rfVfws5DfZ 
-There are no options to respect, only restart. Choose carefully. 
+There are no options to respec (reallocate stats, skills, talent points), only restart. Choose carefully. 
 The Colosseum is for online PvP, "Ranked" option match you with another player close to your level (+-3 below 50) (+-5 50+).
 
