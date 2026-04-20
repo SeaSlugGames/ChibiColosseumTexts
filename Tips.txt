@@ -10,7 +10,6 @@ If you try to watch an ad but you can't tap the button or nothing happens, it me
 Ads in this game are 100% optional and not required nor forced, and will always remain this way.
 Every upgrade in talent/skills costs more points each level.
 The max level is 100, which means you can not max all skills or talents. Choose carefully.
-You can restart by making new character by speaking to one of the patrons in the Inn.
 You lose 10% of current EXP on death.
 At level 92, you're half way to max level of 100.
 Try talking to any NPCs you see.
