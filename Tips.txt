@@ -16,6 +16,7 @@ Try talking to any NPCs you see.
 The mysterious seller in front of the Dungeon restocks every now and then.
 Special effects on items are better from drops than rerolls.
 Keystones are powerful but with their own drawbacks.
+The quests requiring a certain level can be picked up late, it will complete next time you level up.
 Join our discord: https://discord.gg/rfVfws5DfZ  
 The Colosseum is for online PvP, "Ranked" option match you with another player close to your level (+-3 below 50) (+-5 50+).
 
