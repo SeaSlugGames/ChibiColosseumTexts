@@ -1,0 +1,26 @@
+# =========================
+# Launch Codes
+# =========================
+welcome:gold:500|xp:500
+starter:gold:1000|xp:1000|item:070:1
+
+# =========================
+# Fun / Secret Codes
+# =========================
+bestgameever:gold:10000|xp:10000
+ineedhelp:item:095:1|gold:5000
+jackpot:gold:25000
+levelboost:xp:15000
+
+# =========================
+# Progress Boost
+# =========================
+boostme:xp:5000|gold:3000
+fasttrack:xp:20000
+richplayer:gold:50000
+
+# =========================
+# Hidden / Meme Codes
+# =========================
+noob:gold:100
+pro:xp:100000
