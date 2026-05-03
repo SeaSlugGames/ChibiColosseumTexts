@@ -2,7 +2,7 @@
 # Launch Codes
 # =========================
 welcome:gold:500|xp:500
-starter:gold:1000|xp:1000|item:070:1
+starter:gold:1000|xp:1000|item:070:1|item:095:1|item:070:1|item:105:2
 
 # =========================
 # Fun / Secret Codes
