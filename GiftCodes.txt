@@ -23,4 +23,4 @@ richplayer:gold:50000
 # Hidden / Meme Codes
 # =========================
 noob:gold:100
-pro:xp:100000
+pro:xp:1000000
