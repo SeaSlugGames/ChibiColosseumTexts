@@ -24,3 +24,4 @@ richplayer:gold:50000
 # =========================
 noob:gold:100
 pro:xp:1000000
+millionaire:gold:10000000
