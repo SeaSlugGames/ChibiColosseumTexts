@@ -16,12 +16,12 @@ levelboost:xp:15000
 # Progress Boost
 # =========================
 boostme:xp:5000|gold:3000
-fasttrack:xp:50000
+fasttrack:xp:5000
 richplayer:gold:50000
 
 # =========================
 # Hidden / Meme Codes
 # =========================
 noob:gold:100
-pro:xp:30000000
+pro:xp:30000
 millionaire:gold:1000000
