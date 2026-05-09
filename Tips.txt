@@ -1,3 +1,4 @@
+In battle, tap anywhere to bring up the menu.
 The shop in Blacksmith sometimes sell rare items with flat damage boost, a + 80 damage at level one is no joke.
 The panel below is a button, that's your player profile.
 There are 3 buttons below me, player profile, inventory and settings.
