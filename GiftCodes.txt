@@ -25,3 +25,4 @@ richplayer:gold:50000
 noob:gold:100
 pro:xp:30000
 millionaire:gold:1000000
+blingbling:gold:10000000|item:1006:1000|item:1002:1000|item:1012:1000
