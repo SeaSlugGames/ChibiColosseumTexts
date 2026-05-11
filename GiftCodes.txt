@@ -26,3 +26,5 @@ noob:gold:100
 pro:xp:30000
 millionaire:gold:1000000
 blingbling:gold:10000000|item:1006:1000|item:1002:1000|item:1012:1000
+blingbling2:item:1007:1000|item:1008:1000|item:1009:1000|item:1006:1010|item:1002:1011|item:1012:1000
+minerals:item:1002:1014|item:1001:1000
